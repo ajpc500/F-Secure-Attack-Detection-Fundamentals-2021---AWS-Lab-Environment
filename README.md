@@ -57,7 +57,7 @@ For those with even the most foundational knowledge of AWS, that last privilege 
 
 ## Install
 
-Having [installed]((https://www.terraform.io/downloads.html)) and [configured](https://learn.hashicorp.com/tutorials/terraform/aws-build?in=terraform/aws-get-started) Terraform (we're using version 0.14.10 specifically), we can run the following commands.
+Having [installed](https://www.terraform.io/downloads.html) and [configured](https://learn.hashicorp.com/tutorials/terraform/aws-build?in=terraform/aws-get-started) Terraform (we're using version 0.14.10 specifically), we can run the following commands.
 ```
 terraform init
 terraform plan
